@@ -5,7 +5,7 @@ A Portfolio in the Cloud!
 #### Objectives:
 * Frontend development: HTML, CSS ☑️
 * Cloud Infrastucture:  IAM, S3, Route53, AWS Sheild (DDOS protection) ☑️
-* Version control: Git :hammer:
+* Version control: Git ☑️
 * Continous Integration (CI): github actions workflow :hammer:
 * Continous Deployment (CD): :hammer: 
 * Backend Development: ❓
