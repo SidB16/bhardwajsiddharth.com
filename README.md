@@ -6,8 +6,8 @@ A Portfolio in the Cloud!
 * Frontend development: HTML, CSS ☑️
 * Cloud Infrastucture:  IAM, S3, Route53, AWS Sheild (DDOS protection) ☑️
 * Version control: Git ☑️
-* Continous Integration (CI): github actions workflow :hammer:
-* Continous Deployment (CD): :hammer: 
+* Continous Integration (CI): github actions 'Post welcome comment' workflow
+* Continous Deployment (CD): github actions 'Append to README' workflow
 * Backend Development: ❓
 * Addtional Integrations:❓
 
