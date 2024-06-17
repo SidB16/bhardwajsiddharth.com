@@ -13,6 +13,8 @@ A Portfolio in the Cloud!
 
 To maximize value within our budget, we're prioritizing cost-optimization while ensuring security, reliability, performance-efficiency, sustainability, and operational-excellence.
 
+#### Total Cost and Total Cost Forecast
+<img src="/images/costexplorer_1.png" alt="Graph" width="40%"> <img src="/images/costexplorer_2.png" alt="Graph" width="47%">
 
 ### I'm always looking to learn and grow in the cloud space. Let me know if you have any project needs! 
 
