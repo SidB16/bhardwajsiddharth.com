@@ -17,3 +17,4 @@ To maximize value within our budget, we're prioritizing cost-optimization while 
 <img src="/images/costexplorer_1.png" alt="Graph" width="45%"> <img src="/images/costexplorer_2.png" alt="Graph" width="46.25%">
 
 ### I'm always looking to learn and grow in the cloud space. Let me know if you have any project needs! 
+An edit was made, this message was written dynamically!
