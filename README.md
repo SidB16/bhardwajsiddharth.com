@@ -11,5 +11,10 @@ A Portfolio in the Cloud!
 * Backend Development: ❓
 * Addtional Integrations:❓
 
+To maximize value within our budget, we're prioritizing cost-optimization while ensuring security, reliability, performance-efficiency, sustainability, and operational-excellence.
+
+#### Total Cost and Total Cost Forecast
+![Total Cost](/images/costexplorer_1.png) \\ ![Total Cost Forecast](/images/costexplorer_2.png) 
+
 ### I'm always looking to learn and grow in the cloud space. Let me know if you have any project needs! 
 An edit was made, this message was written dynamically!
